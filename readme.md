@@ -13,8 +13,8 @@ PYTHON-SQL-NOSQL
 
    1) Datatypes
    2) Datastructures
-   3) Loops
-   4) Loop Statements
+   3) If Else
+   4) Loops & Loop Statements
 
    Python-Part2
    
