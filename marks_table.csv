@@ -1,0 +1,10 @@
+,student_id,name,address,father_name,dob,maths,physics,chemistry,biology,english
+0,001,John Doe,123 Main Street,Michael Doe,2002-05-15,85.0,61.0,35.0,94.0,78.0
+1,002,Alice Smith,456 Elm Street,David Smith,2003-08-21,41.0,47.0,68.0,63.0,69.0
+2,003,Emily Johnson,789 Oak Street,Andrew Johnson,2002-12-03,63.0,57.0,65.0,62.0,62.0
+3,004,James Brown,567 Pine Street,William Brown,2003-02-28,50.0,43.0,81.0,68.0,88.0
+4,005,Sophia Wilson,890 Maple Street,Daniel Wilson,2002-07-10,58.0,58.0,38.0,64.0,48.0
+5,006,Olivia Garcia,234 Cedar Street,Ethan Garcia,2003-01-19,35.0,61.0,37.0,50.0,74.0
+6,007,William Martinez,876 Birch Street,Liam Martinez,2002-10-05,90.0,50.0,55.0,77.0,63.0
+7,008,Elijah Nguyen,543 Spruce Street,Mason Nguyen,2003-04-30,,,,,
+8,009,Ava Robinson,987 Walnut Street,Benjamin Robinson,2002-06-25,,,,,
